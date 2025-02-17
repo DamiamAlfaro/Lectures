@@ -1,0 +1,11 @@
+1. Import necessary Libraries
+
+2. Read the document to see how the text is 
+displayed.
+
+3. Find patterns in the text in order to arrange the
+respective data you are trying to retrieve.
+
+4. Arrange the data accordingly using a DataFrame for
+future export (Excel).
+
